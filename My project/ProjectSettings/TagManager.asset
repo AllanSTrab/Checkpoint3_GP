@@ -8,6 +8,7 @@ TagManager:
   - Player01
   - Player02
   - Bola
+  - parede
   layers:
   - Default
   - TransparentFX
